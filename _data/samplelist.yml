@@ -1,0 +1,126 @@
+docs_list_title: Professional Notes
+docs:
+
+toc2:
+  - title: Web Development
+    subfolderitems:
+      - page: .NET Core
+        url: /notes/dotnet/dotnetcore/dotnetcore.pdf
+      - page: JavaScript
+        url: /notes/web/javascript/javascript.pdf
+      - page: Node
+        url: /notes/web/node/node.pdf
+      - page: TypeScript
+        url: /notes/web/typescript/typescript.pdf
+      - page: React
+        url: /notes/web/react/react.pdf
+      - page: CSS
+        url: /notes/web/css/css.pdf
+      - page: MongoDB
+        url: /notes/web/mongodb/mongodb.pdf
+      - page: Docker
+        url: /notes/web/docker/docker.pdf
+      - page: Security
+        url: /notes/web/security/security.pdf
+      - page: KeyCloak
+        url: /notes/web/keycloak/keycloak.pdf
+  - title: Software Development
+    subfolderitems:
+      - page: Architecture
+        url: /notes/software/architecture/architecture.pdf
+      - page: Git
+        url: /notes/software/git/git.pdf
+  - title: Financial Engineering
+    subfolderitems:
+      - page: Basics
+        url: /notes/finance/interestrates/rates.pdf
+  - title: Computer Science
+    subfolderitems:
+      - page: Algorithms
+        url: /notes/compsci/algorithms/algorithms.pdf
+      - page: Algorithm Questions
+        url: /notes/compsci/algorithms/questions.pdf
+  - title: Mathematics
+    subfolderitems:
+      - page: Cheat Sheet
+        url: /notes/mathematics/cheatsheet.docx
+      - page: Calculus
+        subsubfolderitems:
+          - page: Differentiation
+            url: /notes/mathematics/calculus/differentiation.pdf
+          - page: Integration
+            url: /notes/mathematics/calculus/integration.pdf
+          - page: Differential Equations
+            url: /notes/mathematics/calculus/differentialequations.pdf
+      - page: Probability
+        subsubfolderitems:
+          - page: Foundations of Probability
+            url: /notes/mathematics/probability/foundations.pdf
+          - page: Stochastic Processes
+            url: /notes/mathematics/probability/stochasticprocesses.pdf
+          - page: Process for stock price evolution
+            url: /notes/mathematics/probability/ProcessForStockPriceEvolution.pdf
+          - page: Black Scholes
+            url: /notes/mathematics/probability/BlackScholes.pdf
+      - page: Number Systems
+        url: /notes/mathematics/numbersystems/numbersystem.pdf
+      - page: Number Theory
+        url: /notes/mathematics/numbertheory/numbertheory.pdf
+      - page: Sets
+        url: /notes/mathematics/sets.pdf
+      - page: Combinatorics
+        url: /notes/mathematics/combinatorics/combinatorics.pdf
+      - page: Sequences, Series and Sums
+        url: /notes/mathematics/series/series.pdf
+  - title: DotNet Development
+    subfolderitems:
+      - page: Core Language
+        subsubfolderitems:
+          - page: Bits and Bytes
+            url: /notes/dotnet/corelib/typesystem/bitbytesandnums.pdf
+          - page: Bits and Byte Questions
+            url: /notes/dotnet/corelib/typesystem/questions.pdf
+          - page: The Type System
+            url: /notes/dotnet/corelib/typesystem/typesystem.pdf
+          - page: Threading
+            url: /notes/dotnet/corelib/threading/threading.pdf
+          - page: Memory Management
+            url: /notes/dotnet/corelib/memorymangement/memorymangement.pdf
+      - page: Core Framework
+        subsubfolderitems:
+          - page: LINQ
+            url: /notes/dotnet/coreframework/linq/linq.pdf     
+      - page: WPF
+        subsubfolderitems:
+          - page: Framework Overview
+            url: /notes/dotnet/applied/wpf/frameworkoverview.pdf
+          - page: Prerequisites
+            url: /notes/dotnet/applied/wpf/prerequisites.pdf
+          - page: Threading Model
+            url: /notes/dotnet/applied/wpf/threadingmodel.pdf
+          - page: XAML
+            url: /notes/dotnet/applied/wpf/xaml/Xaml.pdf
+          - page: Resources
+            url: /notes/dotnet/applied/wpf/resources/resources.pdf
+          - page: Rendering
+            url: /notes/dotnet/applied/wpf/rendering/rendering.pdf
+          - page: Logical Tree
+            url: /notes/dotnet/applied/wpf/logicaltrees/logicaltrees.pdf
+          - page: Dependency Properties
+            url: /notes/dotnet/applied/wpf/dependencyproperties/dependencyproperties.docx
+          - page: Styles
+            url: /notes/dotnet/applied/wpf/styles/styles.pdf
+          - page: Controls
+            url: /notes/dotnet/applied/wpf/controls/controls.pdf
+          - page: Layout
+            url: /notes/dotnet/applied/wpf/layout/layout.pdf
+          - page: Vector Graphics
+            url: /notes/dotnet/applied/wpf/vectorgraphics/vectorgraphics.pdf
+      - page: Core Language
+        subsubfolderitems:
+          - page: Rx
+            url: /notes/dotnet/applied/rx/reactiveextentions.pdf
+  - title: Jupyter Notebooks
+    subfolderitems:
+      - page: NewtonRhapson
+        url: https://nbviewer.jupyter.org/github/riskandpricingsolutions/jupyternotebooks/blob/master/The%20Newton%20Rhapson%20Method.ipynb
