@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kennyrnwilson.github.io/testapp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kennyrnwilson.github.io/testapp/static/js/main.31d208a2.chunk.js",
+    "main.js.map": "/kennyrnwilson.github.io/testapp/static/js/main.31d208a2.chunk.js.map",
+    "runtime-main.js": "/kennyrnwilson.github.io/testapp/static/js/runtime-main.cd7df4d8.js",
+    "runtime-main.js.map": "/kennyrnwilson.github.io/testapp/static/js/runtime-main.cd7df4d8.js.map",
+    "static/js/2.252fb406.chunk.js": "/kennyrnwilson.github.io/testapp/static/js/2.252fb406.chunk.js",
+    "static/js/2.252fb406.chunk.js.map": "/kennyrnwilson.github.io/testapp/static/js/2.252fb406.chunk.js.map",
+    "static/js/3.985d5768.chunk.js": "/kennyrnwilson.github.io/testapp/static/js/3.985d5768.chunk.js",
+    "static/js/3.985d5768.chunk.js.map": "/kennyrnwilson.github.io/testapp/static/js/3.985d5768.chunk.js.map",
+    "index.html": "/kennyrnwilson.github.io/testapp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kennyrnwilson.github.io/testapp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.252fb406.chunk.js.LICENSE.txt": "/kennyrnwilson.github.io/testapp/static/js/2.252fb406.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kennyrnwilson.github.io/testapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7df4d8.js",
+    "static/js/2.252fb406.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.31d208a2.chunk.js"
+  ]
+}
