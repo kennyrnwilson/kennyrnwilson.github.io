@@ -1,10 +1,10 @@
 ---
 ---
 
-<h1 style="text-align:center">Risk And Pricing Solutions </h1>
+<h1 style="text-align:center">Kenny R N Wilson</h1>
 
 
-<p style="text-align:center">.NET Consulting for the Financial Services Industry</p>
+<p style="text-align:center">Full Stack Software Developer</p>
 
 
 
