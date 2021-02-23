@@ -7,6 +7,8 @@ toc2:
         url: /notes/dotnet/dotnetcore/dotnetcore.pdf
       - page: JavaScript
         url: /notes/web/javascript/javascript.pdf
+      - page: Docker
+        url: /notes/web/docker/docker.pdf
   - title: Jupyter Notebooks
     subfolderitems:
       - page: NewtonRhapson
