@@ -9,6 +9,8 @@ toc2:
         url: /notes/web/javascript/javascript.pdf
       - page: Docker
         url: /notes/web/docker/docker.pdf
+      - page: KeyCloak
+        url: /notes/web/keycloak/keycloak.pdf
   - title: Jupyter Notebooks
     subfolderitems:
       - page: NewtonRhapson
