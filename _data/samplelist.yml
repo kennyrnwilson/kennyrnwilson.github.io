@@ -7,7 +7,9 @@ toc2:
         url: /notes/dotnet/dotnetcore/dotnetcore.pdf
       - page: JavaScript
         url: /notes/web/javascript/javascript.pdf
-      - page: TyoeScript
+      - page: Node.js
+        url: /notes/web/node/node.pdf
+      - page: TypeScript
         url: /notes/web/typescript/typescript.pdf
       - page: Docker
         url: /notes/web/docker/docker.pdf
