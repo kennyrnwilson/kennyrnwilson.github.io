@@ -17,10 +17,14 @@ toc2:
         url: /notes/web/keycloak/keycloak.pdf
   - title: Systems Design
     subfolderitems:
+      - page: Non-Functional Requirements
+        url: /notes/ systemdesign/nonfuncreqs.pdf
       - page: Load Balancing
         url: /notes/systemdesign/loadbalancing.pdf
       - page: Data Encoding 
         url: /notes/systemdesign/dataencoding.pdf
+      - page: Service Protocols
+        url: /notes/systemdesign/serviceprotocols.pdf
   - title: Software Architecture
     subfolderitems:
       - page: Architecture
