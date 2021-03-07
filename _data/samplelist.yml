@@ -18,6 +18,8 @@ toc2:
   - title: Systems Design
         - page: Load Balancing
         url: /notes/systemdesign/loadbalancing.pdf
+        - page: Data Encoding 
+        url: /notes/systemdesign/dataencoding.pdf
   - title: Software Architecture
       - page: Architecture
         url: /notes/architecture/architecture.pdf
