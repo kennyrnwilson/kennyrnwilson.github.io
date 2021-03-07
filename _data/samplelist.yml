@@ -16,11 +16,13 @@ toc2:
       - page: KeyCloak
         url: /notes/web/keycloak/keycloak.pdf
   - title: Systems Design
-        - page: Load Balancing
+    subfolderitems:
+      - page: Load Balancing
         url: /notes/systemdesign/loadbalancing.pdf
-        - page: Data Encoding 
+      - page: Data Encoding 
         url: /notes/systemdesign/dataencoding.pdf
   - title: Software Architecture
+    subfolderitems:
       - page: Architecture
         url: /notes/architecture/architecture.pdf
   - title: Coding Problems
