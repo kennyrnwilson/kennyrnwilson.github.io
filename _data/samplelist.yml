@@ -15,6 +15,13 @@ toc2:
         url: /notes/web/docker/docker.pdf
       - page: KeyCloak
         url: /notes/web/keycloak/keycloak.pdf
+  - title: Systems Design
+        - page: Load Balancing
+        url: /notes/systemdesign/loadbalancing.pdf
+  - title: Software Architecture
+      - page: Architecture
+        url: /notes/architecture/architecture.pdf
+  - title: Coding Problems
   - title: Jupyter Notebooks
     subfolderitems:
       - page: NewtonRhapson
