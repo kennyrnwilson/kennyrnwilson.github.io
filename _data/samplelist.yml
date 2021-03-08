@@ -18,13 +18,19 @@ toc2:
   - title: Systems Design
     subfolderitems:
       - page: Non-Functional Requirements
-        url: /notes/ systemdesign/nonfuncreqs.pdf
+        url: /notes/systemdesign/nonfuncreqs.pdf
+      - page: Networking Performance
+        url: /notes/systemdesign/networking.pdf
       - page: Load Balancing
         url: /notes/systemdesign/loadbalancing.pdf
+      - page: Caching
+        url: /notes/systemdesign/caching.pdf
       - page: Data Encoding 
         url: /notes/systemdesign/dataencoding.pdf
       - page: Service Protocols
         url: /notes/systemdesign/serviceprotocols.pdf
+      - page: Database Types
+        url: /notes/systemdesign/databasetypes.pdf
   - title: Software Architecture
     subfolderitems:
       - page: Architecture
