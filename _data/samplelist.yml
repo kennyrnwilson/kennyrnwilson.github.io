@@ -17,6 +17,10 @@ toc2:
         url: /notes/web/keycloak/keycloak.pdf
   - title: Systems Design
     subfolderitems:
+      - page: Cheat Sheets
+        url: /notes/systemdesign/cheatsheets.pdf
+      - page: Problem Solving Technique
+        url: /notes/systemdesign/technique.pdf
       - page: Non-Functional Requirements
         url: /notes/systemdesign/nonfuncreqs.pdf
       - page: Networking Performance
