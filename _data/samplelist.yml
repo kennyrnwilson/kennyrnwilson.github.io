@@ -1,16 +1,24 @@
 docs_list_title: Professional Notes
 docs:
 toc2:
-  - title: Web Development
+  - title: Operating Systems
+    subfolderitems:
+      - page: Windows
+        url: /notes/operatingsystems/windows/usingwindows.pdf
+      - page: PowersShell
+        url: /notes/operatingsystems/windows/powershell.pdf
+  - title: JavaScript/TypeScript
+    subfolderitems:
+      - page: JavaScript
+        url: /notes/web/javascript/javascript.pdf
+      - page: TypeScript
+        url: /notes/web/typescript/typescript.pdf
+      - page: Front-End Testing
+        url: /notes/web/frontendtesting/frontendtesting.pdf
+  - title: Miscelaneous 
     subfolderitems:
       - page: .NET Core
         url: /notes/dotnet/dotnetcore/dotnetcore.pdf
-      - page: JavaScript
-        url: /notes/web/javascript/javascript.pdf
-      - page: Node.js
-        url: /notes/web/node/node.pdf
-      - page: TypeScript
-        url: /notes/web/typescript/typescript.pdf
       - page: Docker
         url: /notes/web/docker/docker.pdf
       - page: KeyCloak
