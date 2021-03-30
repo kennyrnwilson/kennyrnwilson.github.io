@@ -9,6 +9,8 @@ toc2:
         url: /notes/web/typescript/typescript.pdf
       - page: Front-End Testing
         url: /notes/web/frontendtesting/frontendtesting.pdf
+      - page: React
+        url: /notes/web/react/react.pdf
   - title: Miscelaneous 
     subfolderitems:
       - page: SQL Server
