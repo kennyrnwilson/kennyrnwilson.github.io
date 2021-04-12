@@ -14,7 +14,7 @@ toc2:
   - title: Miscelaneous 
     subfolderitems:
       - page: SQL Server
-        url: /notes/databases/rdb.pdf
+        url: /notes/databases/sqlserver.pdf
       - page: .NET Core
         url: /notes/dotnet/dotnetcore/dotnetcore.pdf
       - page: Docker
