@@ -14,7 +14,7 @@ toc2:
   - title: Miscelaneous 
     subfolderitems:
       - page: Bits, Bytes and Numbers
-        url: /notes/bitsbytesandnumbers/bitsbytesandnumbers.pdf
+        url: /notes/bitsbytesandnumbers/bitsbytesandnums.pdf
       - page: SQL Server
         url: /notes/databases/sqlserver.pdf
       - page: .NET Core
