@@ -13,6 +13,8 @@ toc2:
         url: /notes/web/react/react.pdf
   - title: Miscelaneous 
     subfolderitems:
+      - page: Bits, Bytes and Numbers
+        url: /notes/bitsbytesandnumbers/bitsbytesandnumbers.pdf
       - page: SQL Server
         url: /notes/databases/sqlserver.pdf
       - page: .NET Core
