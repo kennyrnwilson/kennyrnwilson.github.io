@@ -11,14 +11,18 @@ toc2:
         url: /notes/web/frontendtesting/frontendtesting.pdf
       - page: React
         url: /notes/web/react/react.pdf
+  - title: DotNet 
+    subfolderitems:
+      - page: .NET Core
+        url: /notes/dotnet/dotnetcore/dotnetcore.pdf
+      - page: Threading
+        url: /notes/dotnet/threading/threading.pdf
   - title: Miscelaneous 
     subfolderitems:
       - page: Bits, Bytes and Numbers
         url: /notes/bitsbytesandnumbers/bitsbytesandnums.pdf
       - page: SQL Server
         url: /notes/databases/sqlserver.pdf
-      - page: .NET Core
-        url: /notes/dotnet/dotnetcore/dotnetcore.pdf
       - page: Docker
         url: /notes/web/docker/docker.pdf
       - page: KeyCloak
