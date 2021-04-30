@@ -17,6 +17,8 @@ toc2:
         url: /notes/dotnet/dotnetcore/dotnetcore.pdf
       - page: Threading
         url: /notes/dotnet/threading/threading.pdf
+      - page: Rx
+        url: /notes/dotnet/rx/reactiveextensions.pdf
   - title: Miscelaneous 
     subfolderitems:
       - page: Bits, Bytes and Numbers
