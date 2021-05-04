@@ -29,6 +29,8 @@ toc2:
         url: /notes/web/docker/docker.pdf
       - page: KeyCloak
         url: /notes/web/keycloak/keycloak.pdf
+      - page: Kafka
+        url: /notes/kafka/kafka.pdf
   - title: Operating Systems
     subfolderitems:
       - page: Windows
