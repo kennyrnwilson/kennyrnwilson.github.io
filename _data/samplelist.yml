@@ -63,6 +63,10 @@ toc2:
     subfolderitems:
       - page: Architecture
         url: /notes/architecture/architecture.pdf
+  - title: Process and Tools
+    subfolderitems:
+      - page: Git
+        url: /notes/git/git.pdf
   - title: Coding Problems
   - title: Jupyter Notebooks
     subfolderitems:
