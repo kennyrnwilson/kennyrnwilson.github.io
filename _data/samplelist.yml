@@ -1,7 +1,7 @@
 docs_list_title: Professional Notes
 docs:
 toc2:
-    - title: Test
+  - title: Test
     subfolderitems:
       - page: Test
         url: /notes/Test.html
