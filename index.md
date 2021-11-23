@@ -12,9 +12,17 @@
     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-<p ç>
+<!-- <p ç>
 $$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2S^2 \frac{\partial^2 V}{\partial t^2} + rS\frac{\partial V}{\partial S} -rV=0$$ 
- </p>
+ </p> -->
+
+<div style="padding:35px">
+    <object data="/Diagram.svg" width="300" type="image/svg+xml"> </object>
+</div>
+
+
+[View Diagram](/Diagram.svg)
+
 
 <h2>Personal Notes</h2>
 
